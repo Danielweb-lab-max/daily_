@@ -1,0 +1,406 @@
+{
+  "project_info": {
+    "project_number": "1077330818835",
+    "project_id": "betapp-b5712",
+    "storage_bucket": "betapp-b5712.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077330818835:android:9aa7010d8ff89c9a410ce6",
+        "android_client_info": {
+          "package_name": "com.danielndungo68.boombet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQLD7jzUXem61ncoR61unDa_0WQqDgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077330818835-46669couca6ucp33p7mmbmhnbqg30evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo68.dailyRolloverAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077330818835:android:76c880a8ed061553410ce6",
+        "android_client_info": {
+          "package_name": "com.danielndungo68.daily_rollover_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQLD7jzUXem61ncoR61unDa_0WQqDgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077330818835-46669couca6ucp33p7mmbmhnbqg30evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo68.dailyRolloverAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077330818835:android:c22b3c51343e7310410ce6",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQLD7jzUXem61ncoR61unDa_0WQqDgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077330818835-46669couca6ucp33p7mmbmhnbqg30evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo68.dailyRolloverAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077330818835:android:f19fa8c9e98b3f8c410ce6",
+        "android_client_info": {
+          "package_name": "com.twoplus.betafriq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQLD7jzUXem61ncoR61unDa_0WQqDgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077330818835-46669couca6ucp33p7mmbmhnbqg30evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo68.dailyRolloverAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077330818835:android:6fd4a8951286a181410ce6",
+        "android_client_info": {
+          "package_name": "com.twoplus.boombet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQLD7jzUXem61ncoR61unDa_0WQqDgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077330818835-46669couca6ucp33p7mmbmhnbqg30evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo68.dailyRolloverAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077330818835:android:c9b90e452898f117410ce6",
+        "android_client_info": {
+          "package_name": "com.twoplus.free_rollover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQLD7jzUXem61ncoR61unDa_0WQqDgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077330818835-46669couca6ucp33p7mmbmhnbqg30evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo68.dailyRolloverAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077330818835:android:d482d702af318221410ce6",
+        "android_client_info": {
+          "package_name": "com.twoplus.free_rollover_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQLD7jzUXem61ncoR61unDa_0WQqDgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077330818835-46669couca6ucp33p7mmbmhnbqg30evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo68.dailyRolloverAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077330818835:android:17d9802a33b5bf7b410ce6",
+        "android_client_info": {
+          "package_name": "com.twoplus.kilibet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQLD7jzUXem61ncoR61unDa_0WQqDgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077330818835-46669couca6ucp33p7mmbmhnbqg30evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo68.dailyRolloverAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077330818835:android:ceb899d9aa05200a410ce6",
+        "android_client_info": {
+          "package_name": "com.twoplus.sportybet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQLD7jzUXem61ncoR61unDa_0WQqDgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077330818835-46669couca6ucp33p7mmbmhnbqg30evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo68.dailyRolloverAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077330818835:android:0ed6197bd9488ac5410ce6",
+        "android_client_info": {
+          "package_name": "com.twoplus.sportytips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQLD7jzUXem61ncoR61unDa_0WQqDgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077330818835-46669couca6ucp33p7mmbmhnbqg30evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo68.dailyRolloverAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077330818835:android:eba5755666146128410ce6",
+        "android_client_info": {
+          "package_name": "www.twoplus.africa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACQLD7jzUXem61ncoR61unDa_0WQqDgag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077330818835-0ptee1r9o2acekv2476jp8bm9p2rac0l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1077330818835-46669couca6ucp33p7mmbmhnbqg30evn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.danielndungo68.dailyRolloverAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
